@@ -7,7 +7,7 @@ function App() {
     <div className="App bg-gray-400 ml-4 mr-4">
       <Header />
       <div className="container mx-auto mt-8">
-        <p>Main content goes here.</p>
+        <p>Main content goes here. yes it does</p>
       </div>
     </div>
   );
